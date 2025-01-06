@@ -26,12 +26,12 @@ www.mysql.com
 ![image](https://github.com/user-attachments/assets/eccd0ac1-e743-45df-b97b-0d244b74bf03)
 
 ## Project Result:
-https://github.com/snehap2000/-Maven_Movies_Rental_DA/blob/main/maven%20-%20MR%20CODE.sql
+maven%20-%20MR%20CODE.sql
 
 
 ## Data Schema:
 
-a< href = "https://github.com/snehap2000/-Maven_Movies_Rental_DA/blob/main/Schema%20(MMR).png"> (MMR)
+Schema%20(MMR).png"
 
 
 
