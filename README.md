@@ -21,7 +21,7 @@ Help track and manage movie inventory effectively. Highlight gaps in the invento
 
 ## Tools & Library Used
 
- a< href="https://www.mysql.com/">Tools
+www.mysql.com
  
 ![image](https://github.com/user-attachments/assets/eccd0ac1-e743-45df-b97b-0d244b74bf03)
 
