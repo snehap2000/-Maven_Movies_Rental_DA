@@ -31,6 +31,8 @@ Data Schema:
 ![Screenshot 2025-01-06 165754](https://github.com/user-attachments/assets/615a5718-34fa-4653-900a-dbde6aa0cc28)
 
 
+
+
 ## Query Task
 
  1.How can we extract the first name, last name, and email address of all customers to prepare a comprehensive contact list for the marketing team?
