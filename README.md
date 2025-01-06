@@ -25,13 +25,6 @@ www.mysql.com
  
 ![image](https://github.com/user-attachments/assets/eccd0ac1-e743-45df-b97b-0d244b74bf03)
 
-## Project Result:
-maven%20-%20MR%20CODE.sql
-
-
-## Data Schema:
-
-Schema%20(MMR).png"
 
 
 
