@@ -25,9 +25,6 @@ www.mysql.com
  
 ![image](https://github.com/user-attachments/assets/eccd0ac1-e743-45df-b97b-0d244b74bf03)
 
-# Project Result
-
-a<herf="https://github.com/snehap2000/-Maven_Movies_Rental_DA/blob/main/maven%20-%20MR%20CODE.sql" >(MMR)
 
 ## Query Task
 
